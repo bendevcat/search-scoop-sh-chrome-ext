@@ -1,0 +1,1 @@
+# search-scoop-sh-chrome-ext
